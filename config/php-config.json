@@ -1,0 +1,186 @@
+{
+  "meta_title": "GMCL",
+  "meta_keyword": "GMCL",
+  "meta_description": "GMCL",
+  "bottom.debug": 0,
+  "site.status": "1",
+  "site_name": "GMCL",
+  "auth.password_min_length": "6",
+  "auth.password_force_numbers": "1",
+  "auth.password_force_symbols": "1",
+  "auth.password_force_mixed_case": "0",
+  "allow.imgage.dimension": "2000x2000",
+  "allow.file.size": "51200",
+  "allow_discount_option": 1,
+  "analytics_id": "",
+  "per_page": 10,
+  "frontPageOpt": [
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    80,
+    100,
+    120,
+    150
+  ],
+  "no_record_found": "No record(s) Found.",
+  "product_set_as_config": {
+    "": "Product Set As",
+    "is_featured": "Featured",
+    "is_trending": "Trending"
+  },
+  "product_unset_as_config": {
+    "": "Product Unset As",
+    "is_featured": "Featured",
+    "is_trending": "Trending"
+  },
+  "category_set_as_config": {
+    "": "Category Set As",
+    "is_top": "Top",
+    "is_menu": "Menu"
+  },
+  "category_unset_as_config": {
+    "": "Category Unset As",
+    "is_top": "Top",
+    "is_menu": "Menu"
+  },
+  "user_title": {
+    "": "Select",
+    "Mr.": "Mr.",
+    "Ms.": "Ms.",
+    "Miss.": "Miss.",
+    "Mrs.": "Mrs.",
+    "Dr": "Dr",
+    "Shri": "Shri",
+    "Smt": "Smt",
+    "Madam": "Madam"
+  },
+  "register_thanks": "Thanks for registering with <site_name>. We look forward to serving you. ",
+  "register_thanks_activate": "Thanks for registering with <website name>. Please Check your mail account to activate your account on the <website name>. ",
+  "enquiry_success": "Your enquiry has been submitted successfully. We will revert back to you soon.",
+  "feedback_success": "Your Feedback has been submitted successfully. We will revert back to you soon.",
+  "product_enquiry_success": "Your product enquiry  has been submitted successfully.We will revert back to you soon.",
+  "product_referred_success": "This product has been referred to your friend successfully.",
+  "site_referred_success": "Site has been referred to your friend successfully.",
+  "forgot_password_success": "Your password has been send to your email address. Please check your email account.",
+  "exists_user_id": "Email id  already exists. Please use different email id.",
+  "email_not_exist": "Email id does not exist.",
+  "login_failed": "Invalid Username/Password",
+  "newsletter_subscribed": "You have been subscribed successfully for our newsletter service.",
+  "newsletter_already_subscribed": "This Email address already exist.",
+  "newsletter_unsubscribed": "You have been unsubscribed from our newsletter service.",
+  "newsletter_not_subscribe": "You are not the subscribe member of our news letter service.",
+  "newsletter_already_unsubscribed": "You have already un-subscribed the newsletter service.",
+  "testimonial_post_success": "Thank you for your testimonial to <site_name>. Your message will be posted after review by the <site_name> team.",
+  "advertisement_request": "Your advertisement request has been submitted successfully. We will revert back to you soon.",
+  "myaccount_update": "Your account information has been updated successfully.",
+  "myaccount_password_changed": "Password has been changed successfully.",
+  "myaccount_password_not_match": "Old Password does  not match. Please try again.",
+  "member_logout": "Logout successfully.",
+  "wish_list_add": "Product has been added to your wishlist successfully.",
+  "wish_list_delete": "Product has been deleted from your wishlist.",
+  "wish_list_product_exists": "This product already exists in your wishlist.",
+  "shiping_address_add": "A new shipping address has been added successfully.",
+  "shiping_address_update": "Your shipping address has been updated successfully.",
+  "shiping_address_delete": "Your shipping address has been deleted successfully.",
+  "cart_add": "Product has been added to your Shopping Basket.",
+  "cart_quantity_update": "Product quantity has been updated successfully.",
+  "cart_product_exist": "Product is already exist in your cart.",
+  "cart_delete_item": "Product(s) has been deleted successfully.",
+  "cart_empty": "Basket has been cleared successfully.",
+  "cart_available_quantity": "Maximum available quantity  is <quantity>. You can not add  more then available Quantity.",
+  "shipping_required": "Shipping selection is required.",
+  "payment_success": "Your Order has been placed successfully. A confirmation email and invoice have been sent to your email id",
+  "payment_failed": "Your transaction is canceled.",
+  "arr_rating": {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5"
+  },
+  "bannersz": {
+    "Left Panel": "300x135",
+    "Page Bottom": "645x80"
+  },
+  "bannersections": {
+    "common": "All Pages"
+  },
+  "banner_section_positions": {
+    "product": [
+      "Left",
+      "Bottom"
+    ]
+  },
+  "total_product_images": "4",
+  "product.best.image.view": "( File should be .jpg, .png, .gif format and file size should not be more then 1 MB (1024 KB)) ( Best image size 600X600 )",
+  "keyId": "rzp_test_vp632ogxh9wSbo",
+  "keySecret": "rHRcSilR0S3iNATaJLEc38pm",
+  "displayCurrency": "INR",
+  "invalid_password": "Invalid Username/Password",
+  "profile_update_success": "Profile updated successfully",
+  "password_changed": "Password changed successfully",
+  "privacy_updated": "Privacy Settings Updated Successfully",
+  "allowed_photos": {
+    "1": "20",
+    "2": "15",
+    "3": "10",
+    "4": "5"
+  },
+  "img_thumb_w": 67,
+  "img_thumb_h": 87,
+  "img_big_w": 298,
+  "img_big_h": 366,
+  "ext": "fan_",
+  "tbl_ext": "tbl_",
+  "usertype": "1",
+  "add_video_rules": [
+    {
+      "field": "caption"
+    },
+    {
+      "field": "embed"
+    },
+    {
+      "field": "video",
+      "label": "Video",
+      "rules": "callback_one_added"
+    },
+    {
+      "field": "pravicy",
+      "label": "Share With",
+      "rules": "trim|required|xss_clean"
+    },
+    {
+      "field": "detail",
+      "label": "Detail",
+      "rules": "xss_clean|max_length[200]"
+    }
+  ],
+  "edit_video_rules": [
+    {
+      "field": "caption"
+    },
+    {
+      "field": "embed"
+    },
+    {
+      "field": "video",
+      "label": "Video",
+      "rules": "callback_one_edit"
+    },
+    {
+      "field": "pravicy",
+      "label": "Share With",
+      "rules": "trim|required|xss_clean"
+    },
+    {
+      "field": "detail",
+      "label": "Detail",
+      "rules": "xss_clean|max_length[200]"
+    }
+  ]
+}
